@@ -1,0 +1,10 @@
+complaint,category,priority
+Water not available,Water,High
+Garbage not collected,Cleaning,High
+Lift not working,Maintenance,Medium
+Too much noise at night,Noise,Medium
+Parking problem,Parking,Low
+Electricity failure,Electricity,High
+Security guard absent,Security,High
+Slow internet connection,Internet,Low
+Street light not working,Electricity,Medium
